@@ -5,6 +5,7 @@ const e = React.createElement;
 class LikeButton extends React.Component {
   constructor(props) {
     super(props);
+    this.style = {height:200 };
     this.state = { count: 0 };
   }
 

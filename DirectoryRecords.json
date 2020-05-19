@@ -1,0 +1,42 @@
+{
+	"Houses:": [
+		{
+			"id": "1",
+			"name": "Jacob Kavalam",
+			"history_pg_no": "1",
+			"imageURL": "https://mathewjkavalam.github.io/jesus.jpg",
+			"google_map_coordinate": [
+				"37.4220041",
+				"-122.0862462"
+			],
+			"members": [
+				"1"
+			]
+		}
+	]
+	"Individuals:": [
+		{
+			"id": "1",
+			"names": [
+				"Jacob Kavalam",
+				"Chackochan"
+			],
+			"dob": "7-20-1962",
+			"died": "false",
+			"imageURL": "https://mathewjkavalam.github.io/jesus.jpg",
+			"phone_no": [
+				"9447282902"
+			],
+			"email": [
+				"jacobkavalam@gmail.com"
+			],
+			"address": [
+				"Kavalam House",
+				"Cheeranchira P.O.",
+				"Changanacherry",
+				"Kerala",
+				"686106"
+			]
+		}
+	]
+}

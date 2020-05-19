@@ -1,5 +1,5 @@
 {
-	"Houses:": [
+	"Houses": [
 		{
 			"id": "1",
 			"name": "Jacob Kavalam",
@@ -13,7 +13,7 @@
 				"1"
 			]
 		}
-	]
+	],
 	"Individuals": [
 		{
 			"id": "1",

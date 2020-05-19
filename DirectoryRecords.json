@@ -37,6 +37,30 @@
 				"Kerala",
 				"686106"
 			]
+		},
+		{
+			"id": "2",
+			"names": [
+				"Mathew",
+				"Mathu"
+			],
+			"dob": "5-13-1998",
+			"died": "false",
+			"imageURL": "https://mathewjkavalam.github.io/jesus.jpg",
+			"phone_no": [
+				"9447282902"
+			],
+			"email": [
+				"jacobkavalam@gmail.com"
+			],
+			"address": [
+				"Kavalam House",
+				"Cheeranchira P.O.",
+				"Changanacherry",
+				"Kerala",
+				"686106"
+			]
 		}
+
 	]
 }

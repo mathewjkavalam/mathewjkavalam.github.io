@@ -12,7 +12,21 @@
 			"members": [
 				"1"
 			]
+		},
+		{
+			"id": "2",
+			"name": "Xavier Kavalam",
+			"history_pg_no": "1",
+			"imageURL": "https://mathewjkavalam.github.io/jesus.jpg",
+			"google_map_coordinate": [
+				"37.4220041",
+				"-122.0862462"
+			],
+			"members": [
+				"2"
+			]
 		}
+
 	],
 	"Individuals": [
 		{

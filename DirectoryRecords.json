@@ -1,7 +1,7 @@
 {
 	"Houses": [
 		{
-			"id": "1",
+			"id": "0",
 			"name": "Jacob Kavalam",
 			"history_pg_no": "1",
 			"imageURL": "https://mathewjkavalam.github.io/jesus.jpg",
@@ -14,7 +14,7 @@
 			]
 		},
 		{
-			"id": "2",
+			"id": "1",
 			"name": "Xavier Kavalam",
 			"history_pg_no": "1",
 			"imageURL": "https://mathewjkavalam.github.io/jesus.jpg",
@@ -30,7 +30,7 @@
 	],
 	"Individuals": [
 		{
-			"id": "1",
+			"id": "0",
 			"names": [
 				"Jacob Kavalam",
 				"Chackochan"
@@ -53,7 +53,7 @@
 			]
 		},
 		{
-			"id": "2",
+			"id": "1",
 			"names": [
 				"Mathew",
 				"Mathu"

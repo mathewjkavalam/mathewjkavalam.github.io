@@ -1,9 +1,7 @@
-import {
-  dayOfYear,
-  currentDayOfYear,
-} from "https://deno.land/std/datetime/mod.ts";
-void run(){
-  dayOfYear(new Date("2019-03-11T03:24:00")); // output: 70
-  currentDayOfYear();
-
+// Copyright 2018-2020 the Deno authors. All rights reserved. MIT license.
+const filenames = Deno.args;
+for (const filename of filenames) {
+  const file = await Deno.open(filename);
+  await Deno.copy(file, Deno.stdout);
+  file.close();
 }
